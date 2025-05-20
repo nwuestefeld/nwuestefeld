@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nwuestefeld
-- 👀 I’m interested in statistical models, time-series stuff, GPGPU programming
+- 👀 I’m interested in statistical models, time-series stuff, tabular problems, GPGPU programming
 - 🌱 I’m currently learning Triton, financial modeling
 
 
