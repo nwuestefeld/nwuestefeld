@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nwuestefeld
-- 👀 I’m interested in statistical models, time-series stuff, tabular problems, GPGPU programming
-- 🌱 I’m currently learning Triton, financial modeling
+- 👀 I’m interested in statistical models, time-series stuff, tabular problems, GPGPU programming, quality analytics
+- 🌱 I’m currently learning Triton, high frequency financial modeling
 
 
 <!---
